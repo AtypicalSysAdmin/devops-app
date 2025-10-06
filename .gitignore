@@ -1,3 +1,16 @@
+# === Vim / Neovim ===
+# Swap files
+*.swp
+*.swo
+# Backup files
+*~
+# Undo files
+*.un~
+*.tmp
+# Session and view files
+Session.vim
+*.viminf
+
 __pycache__/
 *.pyc
 .env
